@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/fe509281e87f45db86630b9298ebfe42/artifacts
+end_time: 1779618015590
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: fe509281e87f45db86630b9298ebfe42
+run_name: SVM_CICIoT2023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779618015501
+status: 3
+tags: []
+user_id: user

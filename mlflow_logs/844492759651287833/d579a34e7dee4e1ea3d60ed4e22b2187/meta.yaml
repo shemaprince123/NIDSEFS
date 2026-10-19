@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/d579a34e7dee4e1ea3d60ed4e22b2187/artifacts
+end_time: 1791006693960
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: d579a34e7dee4e1ea3d60ed4e22b2187
+run_name: SVM_CICIDS2017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791006693822
+status: 3
+tags: []
+user_id: user

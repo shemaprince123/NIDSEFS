@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/ff80948f48654ea5b308750775e0c224/artifacts
+end_time: 1790978187405
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: ff80948f48654ea5b308750775e0c224
+run_name: SVM_NSL-KDD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790978187169
+status: 3
+tags: []
+user_id: user

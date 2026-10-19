@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/47bff7fc7f224b0abe057cb938f19c5e/artifacts
+end_time: 1779568134726
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 47bff7fc7f224b0abe057cb938f19c5e
+run_name: NaiveBayes_CICIDS2017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779568134630
+status: 3
+tags: []
+user_id: user

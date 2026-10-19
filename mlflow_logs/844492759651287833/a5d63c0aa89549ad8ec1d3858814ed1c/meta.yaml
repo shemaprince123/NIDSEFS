@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/a5d63c0aa89549ad8ec1d3858814ed1c/artifacts
+end_time: 1779567236101
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: a5d63c0aa89549ad8ec1d3858814ed1c
+run_name: XGBoost_NSL-KDD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779567236021
+status: 3
+tags: []
+user_id: user

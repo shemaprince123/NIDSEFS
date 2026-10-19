@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/6028c542fcd0446d89d7655a595c8d42/artifacts
+end_time: 1790981532758
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 6028c542fcd0446d89d7655a595c8d42
+run_name: XGBoost_CICIDS2017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790981532575
+status: 3
+tags: []
+user_id: user

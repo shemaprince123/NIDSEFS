@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/d3a027eac62f49dcaeb4a64d027d8072/artifacts
+end_time: 1779566594552
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: d3a027eac62f49dcaeb4a64d027d8072
+run_name: RandomForest_CICIoT2023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779566594440
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/a6dcf3ccd568472996a6ee9246338674/artifacts
+end_time: 1790883483140
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: a6dcf3ccd568472996a6ee9246338674
+run_name: DecisionTree_UNSW-NB15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790883483083
+status: 3
+tags: []
+user_id: user

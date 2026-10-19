@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/1f590ac84d3043c1a5b01746c6e297fb/artifacts
+end_time: 1779574737252
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 1f590ac84d3043c1a5b01746c6e297fb
+run_name: NaiveBayes_NSL-KDD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779574736977
+status: 3
+tags: []
+user_id: user

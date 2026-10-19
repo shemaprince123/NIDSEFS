@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/deaf47bb42544fae80604d3ccc0e86ad/artifacts
+end_time: 1790877462485
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: deaf47bb42544fae80604d3ccc0e86ad
+run_name: XGBoost_UNSW-NB15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790877462360
+status: 3
+tags: []
+user_id: user

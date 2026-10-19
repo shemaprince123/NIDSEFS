@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/d1b133a8230f410ab9a337304c606ac3/artifacts
+end_time: 1779567230883
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: d1b133a8230f410ab9a337304c606ac3
+run_name: RandomForest_NSL-KDD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779567230824
+status: 3
+tags: []
+user_id: user

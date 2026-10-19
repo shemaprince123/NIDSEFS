@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/854a6b1387274fee8fd35514cc62d7ed/artifacts
+end_time: 1790884134666
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 854a6b1387274fee8fd35514cc62d7ed
+run_name: DecisionTree_CICIDS2017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790884134608
+status: 3
+tags: []
+user_id: user

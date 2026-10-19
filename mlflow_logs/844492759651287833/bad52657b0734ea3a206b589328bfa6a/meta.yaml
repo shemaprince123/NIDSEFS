@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/bad52657b0734ea3a206b589328bfa6a/artifacts
+end_time: 1779567268805
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: bad52657b0734ea3a206b589328bfa6a
+run_name: RandomForest_UNSW-NB15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779567268690
+status: 3
+tags: []
+user_id: user

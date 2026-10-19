@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/c98389a503294fcbbf08ec5ca9788106/artifacts
+end_time: 1790978391942
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: c98389a503294fcbbf08ec5ca9788106
+run_name: Ensemble_RF_XGB_UNSW-NB15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790978391741
+status: 3
+tags: []
+user_id: user

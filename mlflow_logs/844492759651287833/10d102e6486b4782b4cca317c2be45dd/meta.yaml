@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/10d102e6486b4782b4cca317c2be45dd/artifacts
+end_time: 1779565093937
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 10d102e6486b4782b4cca317c2be45dd
+run_name: DecisionTree_NSL-KDD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779565093882
+status: 3
+tags: []
+user_id: user

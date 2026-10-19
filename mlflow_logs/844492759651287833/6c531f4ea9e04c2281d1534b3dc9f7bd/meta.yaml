@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/NIDS_EFS_Project/mlflow_logs/844492759651287833/6c531f4ea9e04c2281d1534b3dc9f7bd/artifacts
+end_time: 1790878018749
+entry_point_name: ''
+experiment_id: '844492759651287833'
+lifecycle_stage: active
+run_id: 6c531f4ea9e04c2281d1534b3dc9f7bd
+run_name: RandomForest_CICIDS2017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790878018488
+status: 3
+tags: []
+user_id: user
