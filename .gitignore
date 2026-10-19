@@ -11,3 +11,4 @@ data/
 .env
 survey_responses*.csv
 sus_responses*.csv
+Documentation/
